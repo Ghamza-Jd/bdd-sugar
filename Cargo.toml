@@ -1,0 +1,12 @@
+[package]
+name = "bdd-sugar"
+version = "0.1.0"
+edition = "2021"
+authors = ["Ghamza-Jd <hamzah.jadeed@gmail.com>"]
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/Ghamza-Jd/bdd-sugar"
+description = "Behaviour-driven development syntactic sugar to make tests more readable"
+
+[lib]
+crate_type = ["proc-macro"]
